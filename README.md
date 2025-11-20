@@ -1,5 +1,5 @@
 # 🧠 AI Homelab: Hybrid Infrastructure on UCS + AVS
-
+# *Future Plans on deploying Cisco UCS hardware depending on price or if there is an alternative way in deploying this*
 This repository documents a full-featured homelab designed to simulate enterprise-grade AI infrastructure across Cisco UCS, VMware vSphere 8.x, and Azure VMware Solution (AVS). It includes Terraform modules, GPU scheduling simulations, and containerized AI workloads.
 
 ## 🔧 Components
